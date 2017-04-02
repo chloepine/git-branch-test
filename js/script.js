@@ -4,7 +4,7 @@
 
 
 function init(){
-    console.log('deploy');
+    console.log('dkdltlssk');
 
 
 }
