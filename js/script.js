@@ -11,7 +11,7 @@ function init(){
 
 init();
 function init2(){
-    console.log('dkdltlssk2');
+    console.log('hotfix');
 
 
 }
