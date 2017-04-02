@@ -10,3 +10,8 @@ function init(){
 }
 
 init();
+function init2(){
+    console.log('dkdltlssk2');
+
+
+}
