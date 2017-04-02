@@ -4,9 +4,8 @@
 
 
 function init(){
-    console.log('new beanch');
+    console.log('deploy');
 
-    console.log('test01');
 
 }
 
