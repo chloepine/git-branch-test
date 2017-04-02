@@ -5,7 +5,9 @@
 
 function init(){
     console.log('new beanch');
-    console.log('dd');
+
+    console.log('test01');
+
 }
 
 init();
