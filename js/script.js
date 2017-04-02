@@ -4,9 +4,14 @@
 
 
 function init(){
-    console.log('deploy');
+    console.log('dkdltlssk');
 
 
 }
 
 init();
+function init2(){
+    console.log('dkdltlssk2');
+
+
+}
